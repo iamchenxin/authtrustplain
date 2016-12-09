@@ -1,0 +1,7 @@
+base   authtrustplain
+author iamchenxin
+email  iamchenxin@gmail.com
+date   2016-12-05
+name   Plain Auth Plugin(bypass localhost)
+desc   authplain, but bypass users from localhost.
+url    http://www.dokuwiki.org/plugin:authtrustplain
